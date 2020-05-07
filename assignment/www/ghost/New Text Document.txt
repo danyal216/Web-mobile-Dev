@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+			<style>
+				img {
+				  display: block;
+				  margin-left: auto;
+				  margin-right: auto;
+				  padding:30%;
+				}
+			</style>
+	</head>
+	<body>
+
+		<img src="img_paris.jpg" alt="Paris" style="width:50%;">
+
+	</body>
+</html>
